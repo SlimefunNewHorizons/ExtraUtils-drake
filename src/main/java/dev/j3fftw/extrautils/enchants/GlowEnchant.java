@@ -1,6 +1,6 @@
 package dev.j3fftw.extrautils.enchants;
 
-import com.github.drakescraft_labs.slimefun4.implementation.Slimefun;
+import io.github.thebusybiscuit.slimefun4.implementation.Slimefun;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Optional;
