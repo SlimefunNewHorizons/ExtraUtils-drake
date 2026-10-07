@@ -6,7 +6,7 @@
 
     <groupId>com.github.drakescraft_labs</groupId>
     <artifactId>ExtraUtils-drake</artifactId>
-    <version>1.20.6-Drake-SNAPSHOT</version>
+    <version>1.20.6-Drake-UNIVERSAL-26x-SNAPSHOT</version>
 
     <properties>
         <java.version>21</java.version>
@@ -148,13 +148,6 @@
             <groupId>com.google.code.findbugs</groupId>
             <artifactId>jsr305</artifactId>
             <version>3.0.2</version>
-            <scope>provided</scope>
-        </dependency>
-
-                <dependency>
-            <groupId>com.github.drakescraft_labs</groupId>
-            <artifactId>dough-core</artifactId>
-            <version>${dough.version}</version>
             <scope>provided</scope>
         </dependency>
 
