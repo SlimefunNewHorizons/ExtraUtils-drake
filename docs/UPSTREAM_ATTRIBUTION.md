@@ -6,7 +6,10 @@ This repository is part of the [SlimefunNewHorizons](https://github.com/Slimefun
 
 | Author | Commits here | Source |
 |---|---|---|
-| _none verified yet_ | | |
+| [Slimefun-Addon-Community](https://github.com/Slimefun-Addon-Community) | n/a | Upstream project [Slimefun-Addon-Community/ExtraUtils](https://github.com/Slimefun-Addon-Community/ExtraUtils) |
+| [J3fftw1](https://github.com/J3fftw1) | n/a | GitHub contributors / project history |
+| [NCBPFluffyBear](https://github.com/NCBPFluffyBear) | n/a | GitHub contributors / project history |
+| [md5sha256](https://github.com/md5sha256) | n/a | GitHub contributors / project history |
 
 Authors are taken from the repository history (GitHub contributors) and from the code itself (`plugin.yml`). If an original author is missing or wrongly credited, open an issue or mention [@JackStar6677-1](https://github.com/JackStar6677-1) and it will be fixed.
 
